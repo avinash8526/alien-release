@@ -19,13 +19,6 @@
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
   ],
-  "publish": {
-        "path": "@semantic-release/github",
-        "githubUrl": "https://github.com",
-        "assets": [
-          {"path": "docs/changelog.md", "label": "ChangeLog"},
-        ],
-        "successComment":"This ${issue.pull_request ? 'pull request' : 'issue'} is included in version ${nextRelease.version}"
-      }
+  "publish": ["@semantic-release/github"]
   
 }
