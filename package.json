@@ -1,0 +1,24 @@
+{
+  "name": "alien-release",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avinash8526/alien-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash8526/alien-release/issues"
+  },
+  "homepage": "https://github.com/avinash8526/alien-release#readme",
+  "devDependencies": {
+    "@semantic-release/git": "7.0.2",
+    "semantic-release": "^15.9.9"
+  }
+}
