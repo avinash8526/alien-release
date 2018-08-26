@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/avinash8526/alien-release/compare/v0.1.2...v0.2.0) (2018-08-26)
+
+
+### Features
+
+* **Asset Binding:** Asset creation ([8bb434d](https://github.com/avinash8526/alien-release/commit/8bb434d))
+
 ## [0.1.2](https://github.com/avinash8526/alien-release/compare/v0.1.1...v0.1.2) (2018-08-26)
 
 
