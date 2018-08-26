@@ -21,7 +21,7 @@
         "assets": [
           {"path": "docs/changelog.md", "label": "ChangeLog"},
         ],
-        "successComment":"This ${issue.pull_request ? 'pull request' : 'issue'} is included in version ${nextRelease.version}
+        "successComment":"This ${issue.pull_request ? 'pull request' : 'issue'} is included in version ${nextRelease.version}"
       }
   
 }
