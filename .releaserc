@@ -3,9 +3,11 @@
   "repositoryUrl":"git@github.com:avinash8526/alien-release.git",
   "debug":true,
   "getLastRelease": "last-release-git",
+  "dryRun":false,
+  "noCi":true,
 
   
-  "verifyConditions": ["@semantic-release/changelog", "@semantic-release/git","@semantic-release/github"],
+  "verifyConditions": ["@semantic-release/changelog","@semantic-release/github"],
   "prepare": [
       {
         "path": "@semantic-release/changelog",
