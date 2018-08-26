@@ -2,6 +2,8 @@
   "branch": "master",
   "repositoryUrl":"git@github.com:avinash8526/alien-release.git",
   "debug":true,
+  "getLastRelease": "last-release-git",
+
   
   "verifyConditions": ["@semantic-release/changelog", "@semantic-release/git","@semantic-release/github"],
   "prepare": [
