@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/avinash8526/alien-release/compare/v0.2.0...v0.3.0) (2018-08-28)
+
+
+### Features
+
+* **package.json:** Now it is commitizen freiendly ([211e6af](https://github.com/avinash8526/alien-release/commit/211e6af))
+
 # [0.2.0](https://github.com/avinash8526/alien-release/compare/v0.1.2...v0.2.0) (2018-08-26)
 
 
