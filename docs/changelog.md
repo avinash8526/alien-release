@@ -1,3 +1,10 @@
+## [0.3.3](https://github.com/avinash8526/alien-release/compare/v0.3.2...v0.3.3) (2018-08-28)
+
+
+### Bug Fixes
+
+* **Bug:** Fixing all bugs now ([467abf7](https://github.com/avinash8526/alien-release/commit/467abf7))
+
 ## [0.3.2](https://github.com/avinash8526/alien-release/compare/v0.3.1...v0.3.2) (2018-08-28)
 
 
