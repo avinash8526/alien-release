@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/avinash8526/alien-release/compare/v0.3.0...v0.4.0) (2018-08-28)
+
+
+### Features
+
+* **package.json:** Commitizen is implemented ([7bd08fc](https://github.com/avinash8526/alien-release/commit/7bd08fc))
+
 # [0.3.0](https://github.com/avinash8526/alien-release/compare/v0.2.0...v0.3.0) (2018-08-28)
 
 

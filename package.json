@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
+    "postinstall": "source ./scripts/init.sh",
     "sm": "semantic-release pre && semantic-release post"
   },
   "repository": {
@@ -26,7 +27,9 @@
     "commitizen": "2.10.1",
     "cz-conventional-changelog": "2.1.0",
     "last-release-git": "0.0.3",
-    "semantic-release": "^15.9.9"
+    "semantic-release": "^15.9.9",
+    "shell-source": "1.1.0",
+    "shelljs": "0.8.2"
   },
   "config": {
     "commitizen": {
