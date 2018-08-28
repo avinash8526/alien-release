@@ -1,6 +1,7 @@
 {
   "name": "alien-release",
   "version": "0.0.0-development",
+  "branch": "gdf",
   "description": "",
   "main": "index.js",
   "scripts": {
